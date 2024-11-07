@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mohamed.Afzal\\Desktop\\01Systems Assignment\\RandomNumbersImplementation\\RandomNumberOccurances\\RandomNumberOccurances\\RandomNumberOccurances\\RandomNumberOccurances.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mohamed.Afzal\\Desktop\\01Systems Assignment\\RandomNumbersImplementation\\RandomNumberOccurances\\RandomNumberOccurances\\RandomNumberOccurances\\RandomNumberOccurances.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mohamed.Afzal\\Desktop\\01Systems Assignment\\RandomNumbersImplementation\\RandomNumberOccurances\\RandomNumberOccurances\\RandomNumberOccurances\\RandomNumberOccurances.csproj",
+        "projectName": "RandomNumberOccurances",
+        "projectPath": "C:\\Users\\Mohamed.Afzal\\Desktop\\01Systems Assignment\\RandomNumbersImplementation\\RandomNumberOccurances\\RandomNumberOccurances\\RandomNumberOccurances\\RandomNumberOccurances.csproj",
+        "packagesPath": "C:\\Users\\Mohamed.Afzal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohamed.Afzal\\Desktop\\01Systems Assignment\\RandomNumbersImplementation\\RandomNumberOccurances\\RandomNumberOccurances\\RandomNumberOccurances\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mohamed.Afzal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Mohamed.Afzal\\Documents\\Nugets\\Old Work Sapce\\01_KIT Projects\\KT\\FROM OSAMA\\Telerik.Reporting.Services.AspNetCore.13.0.19.222 (2)\\Telerik.Reporting.13.0.19.222": {},
+          "C:\\Users\\Mohamed.Afzal\\Documents\\Nugets\\Telerik.Reporting.16.2.22.1109 - SICO kIPO": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
